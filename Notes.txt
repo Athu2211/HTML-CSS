@@ -1,0 +1,22 @@
+Block Level elements
+    Occupies entire space of the parent element(Container)
+    tags: <h>, <p>, 
+
+Inline level elements
+    Occupies only the space bound by the tag
+
+Soft Return
+    continues the text on the next line than giving two line space
+    <br>
+
+HTML entity
+    &ldquo; - left double quote
+    &rdquo; - right double quote
+    &rsquo; - right single quote
+    &mdash; - longer than hyphens
+
+Semantic elements
+    <article> <aside> <details> <figcaption> <figure> <footer> <header> <main> <mark> <nav> <section> <summary> <time>
+
+Non Semantic
+    <div> <span>
